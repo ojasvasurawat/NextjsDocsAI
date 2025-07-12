@@ -25,7 +25,7 @@ SYSTEM_PROMPT = f"""
     and navigate the user to open the right link to know more.
     Answer the question step-by-step. 
     Answer should be detailed enabling user to understand the content better.
-    Give at least 3-4 line answers.
+    Give long answers.
     If a user asks anything outside of the context, refrain from answering the question.
 
 """
